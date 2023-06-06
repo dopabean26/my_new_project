@@ -1,0 +1,18 @@
+body {
+    background-color: #1e1e1e;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+#app {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+	#updates {
+    margin-top: 50px;
+}
